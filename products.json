@@ -3,8 +3,7 @@
         "id": "1",
         "title": "Large drone",
         "image": "drone-large.jpg",
-        "description": "Large drone for most critical missions. Can 
-carry load.",
+        "description": "Large drone for most critical missions. Can carry load.",
         "price": 499.99
     },
     {
@@ -18,8 +17,7 @@ carry load.",
         "id": "3",
         "title": "Blue drone",
         "image": "drone-blue.jpg",
-        "description": "Nice-looking drone in blue color. Has built-in 
-HD camera",
+        "description": "Nice-looking drone in blue color. Has built-in HD camera",
         "price": 249.99
     },
     {
